@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^6.2.4",
+    "grommet": "^2.7.3",
+    "grommet-icons": "^4.2.0",
+    "polished": "^3.4.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-loading": "^2.0.3",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-visjs-timeline": "^1.5.0",
+    "recompose": "^0.30.0",
+    "styled-components": "^4.3.2",
+    "vis": "^4.21.0"
   },
   "scripts": {
     "start": "react-scripts start",
