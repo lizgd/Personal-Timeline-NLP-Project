@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^6.2.4",
+    "firebase": "^10.9.0",
     "grommet": "^2.7.3",
     "grommet-icons": "^4.2.0",
     "polished": "^3.4.1",
